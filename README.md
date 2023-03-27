@@ -1,9 +1,10 @@
 ### Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 
 <p>
-  I'm <b>Bernarda</b> a passionate tech novice developer and open source enthusiast. I'm learning Python and JavaScript and looking for opportunities to contribute to open source projects and learn from the best. I like challenges and I look for innovative projects that can make a difference in people's lives.
+  I'm <b>Bernarda</b> a passionate tech novice developer and open source enthusiast. I'm learning Python and JavaScript and looking for opportunities to contribute to open source projects and learn from the best. 
 </p>
 
+> I like challenges and I look for innovative projects that can make a difference in people's lives.
 
 <a href = "mailto:ireneteresa13@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/irene-teresa-979118256" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 

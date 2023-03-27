@@ -8,6 +8,8 @@
 <a href = "mailto:ireneteresa13@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/irene-teresa-979118256" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
+[![Bernard Gonçalves](https://img.shields.io/badge/Bernarda-Gonçalves-<COLOR>.svg)](https://shields.io/) ![Profile Views](https://komarev.com/ghpvc/?username=bernardagoncalves&color=green) ![Followers](https://img.shields.io/github/followers/jmatoso) ![Stars](https://img.shields.io/github/stars/bernardagoncalves?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) 
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -19,5 +21,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/her...
 - ⚡ Fun fact: I am still thinking...
 -->
-
-[![Bernard Gonçalves](https://img.shields.io/badge/Bernarda-Gonçalves-<COLOR>.svg)](https://shields.io/) ![Profile Views](https://komarev.com/ghpvc/?username=bernardagoncalves&color=green) ![Followers](https://img.shields.io/github/followers/jmatoso) ![Stars](https://img.shields.io/github/stars/bernardagoncalves?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) 

@@ -20,10 +20,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I am still thinking...
 -->
 
-### My GitHub 𝗦𝘁𝗮𝘁
-
-<div align="center" style="display: flex;">
-  <a href="https://github.com/BernardaGoncalves">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BernardaGoncalves&show_icons=true&include_all_commits=true&count_private=true" alt="BernardaGoncalves" />   
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardaGoncalves&show_icons=truei&layout=compact&langs_count=7"/>
-</div> 
+[![Bernard Gonçalves](https://img.shields.io/badge/Bernarda-Gonçalves-<COLOR>.svg)](https://shields.io/) ![Profile Views](https://komarev.com/ghpvc/?username=bernardagoncalves&color=green) ![Followers](https://img.shields.io/github/followers/jmatoso) ![Stars](https://img.shields.io/github/stars/bernardagoncalves?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) 
